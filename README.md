@@ -35,8 +35,10 @@ I'm strengthening my knowledge in front-end and back-end development. I love lea
 
 ## Check out my Social Media
  
- <a href= "https://www.instagram.com/valenwerle/?hl=es">
+ <a href= "">
      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
  </a>
- 
+ <a href="www.linkedin.com/in/noelia-porta-b833a228">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
  
