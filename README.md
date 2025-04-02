@@ -42,3 +42,9 @@ I'm strengthening my knowledge in front-end and back-end development. I love lea
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  
+<h2>Github stats:</h2> 
+ 
+ [![](https://github-readme-stats.vercel.app/api?username=noeliaporta&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/noeliaporta)
+ [![](https://github-readme-streak-stats.herokuapp.com/?user=noeliaporta&theme=material-palenight)](https://github.com/noeliaporta)
+ </div>
+ 
