@@ -10,10 +10,12 @@ I'm strengthening my knowledge in front-end and back-end development. I love lea
 
 
 
+
 ## 🚀 Currently Learning
 - Deepening my knowledge in **C** (arrays, pointers, structs, sorting).
 - Improving **HTML + CSS** for responsive and clean web design.
 - 📌 Taking an intensive course in **Software Testing**. 
+
 
 
 ## 🎨 Fun facts
@@ -23,10 +25,12 @@ I'm strengthening my knowledge in front-end and back-end development. I love lea
 - 📫 Reach out to me at: <a href="mailto:noeliaportacontacto@gmail.com">noeliaportacontacto@gmail.com</a>
 
 
+
 ## 🛠️ Projects
 - 📝 **C Practice Repo (private)** → practicing arrays, pointers, structs, sorting algorithms.  
 - 🛒 **Mini Store (public soon)** → managing products with structs and arrays in C, with future HTML+CSS interface.  
 - 🎮 **Keyboard Game (planned)** → small typing game in C.  
+
 
 
 ## ✅ Testing
@@ -34,6 +38,7 @@ I’m learning to apply software testing practices to my projects:
 - Writing simple test cases for my C programs.
 - Documenting validations and edge cases in my repos.
 - Exploring unit testing and manual testing techniques.
+
 
 
 ## 💡 Workflow
