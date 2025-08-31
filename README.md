@@ -8,6 +8,8 @@ I'm a Technician in Electromechanical Equipment and Installations and a student 
 
 I'm strengthening my knowledge in front-end and back-end development. I love learning and creating something new, productive, innovative, and creative.
 
+
+
 ## 🚀 Currently Learning
 - Deepening my knowledge in **C** (arrays, pointers, structs, sorting).
 - Improving **HTML + CSS** for responsive and clean web design.
