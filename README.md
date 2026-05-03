@@ -81,7 +81,7 @@ I’m learning to apply software testing practices to my projects:
 
 <h2>📊 Github Stats:</h2> 
  
- <div align="center">
+ <div>
  [![](https://github-readme-stats.vercel.app/api?username=noeliaporta&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/noeliaporta)
  [![](https://github-readme-streak-stats.herokuapp.com/?user=noeliaporta&theme=material-palenight)](https://github.com/noeliaporta)
  </div>
