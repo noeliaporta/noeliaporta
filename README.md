@@ -79,8 +79,6 @@ I’m learning to apply software testing practices to my projects:
  
 <h2 align="center">📊 Github Stats:</h2> 
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noeliaporta&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Stats" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noeliaporta&theme=material-palenight" alt="Streak" />
-</p>
+</div>
