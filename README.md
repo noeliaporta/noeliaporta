@@ -12,7 +12,7 @@ I'm strengthening my knowledge in front-end and back-end development. I love lea
 
 
 ## 🚀 Currently Learning
-- Deepening my knowledge in **C** (arrays, pointers, structs, sorting).
+- Deepening my knowledge in **C** (File Handling & Binary Files), **Java** (Standard Edition).
 - Improving **HTML + CSS** for responsive and clean web design.
 - 📌 Taking an intensive course in **Software Testing**. 
 
@@ -27,11 +27,13 @@ I'm strengthening my knowledge in front-end and back-end development. I love lea
 
 
 ## 🛠️ Projects
-- 📝 **C Practice Repo (private)** → practicing arrays, pointers, structs, sorting algorithms.  
-- 🛒 **Mini Store (public soon)** → managing products with structs and arrays in C, with future HTML+CSS interface.  
-- 🎮 **Keyboard Game (planned)** → small typing game in C.  
+- 📂 **[Programacion2-JAVA](https://github.com/noeliaporta/Programacion2-JAVA)** → Central repository for my university coursework. It includes advanced logic exercises, such as **Gross Salary Calculation**, applying data structures and control flows in Java.
+- 🚧 **[People Manager Java](https://github.com/noeliaporta/people-manager-java)** → *In progress*. A project focused on comprehensive data management, applying **Object-Oriented Programming (OOP)** concepts and data persistence.
+- 📝 **C Practice Repo (private)** → Focused on advanced memory management, including pointers, custom libraries (`Utils.h`), and **Direct Access Files** using `fseek` and `fwrite`.
+- 🛒 **Mini Store (public soon)** → Managing products with structs and binary files in C, with a future HTML+CSS interface.  
+- 🎮 **Keyboard Game (planned)** → Small typing game developed in C to practice real-time input handling.
 
-
+  
 
 ## ✅ Testing
 I’m learning to apply software testing practices to my projects:
@@ -59,6 +61,8 @@ I’m learning to apply software testing practices to my projects:
 
 <h4> Other Tools and Technologies </h4>
 <span>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
@@ -74,7 +78,7 @@ I’m learning to apply software testing practices to my projects:
  </a>
  
 <h2>📊 Github Stats:</h2> 
- 
+ <div align="center">
  [![](https://github-readme-stats.vercel.app/api?username=noeliaporta&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/noeliaporta)
  [![](https://github-readme-streak-stats.herokuapp.com/?user=noeliaporta&theme=material-palenight)](https://github.com/noeliaporta)
  </div>
