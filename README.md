@@ -79,10 +79,9 @@ I’m learning to apply software testing practices to my projects:
  
 <h2 align="center">📊 Github Stats:</h2> 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noeliaporta&theme=github&hide_border=true&area=true" alt="Cuadraditos de actividad" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=noeliaporta&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Estadísticas" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noeliaporta&theme=material-palenight&hide_border=true" alt="Racha" />
-</p>
+<h2>📊 Github Stats:</h2> 
+ 
+ <div align="center">
+ [![](https://github-readme-stats.vercel.app/api?username=noeliaporta&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/noeliaporta)
+ [![](https://github-readme-streak-stats.herokuapp.com/?user=noeliaporta&theme=material-palenight)](https://github.com/noeliaporta)
+ </div>
