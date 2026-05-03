@@ -77,9 +77,10 @@ I’m learning to apply software testing practices to my projects:
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  
-<h2>📊 Github Stats:</h2> 
- <div align="center">
- [![](https://github-readme-stats.vercel.app/api?username=noeliaporta&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/noeliaporta)
- [![](https://github-readme-streak-stats.herokuapp.com/?user=noeliaporta&theme=material-palenight)](https://github.com/noeliaporta)
- </div>
- 
+<h2 align="center">📊 Github Stats:</h2> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noeliaporta&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noeliaporta&theme=material-palenight" alt="Streak" />
+</p>
